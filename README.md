@@ -1,4 +1,4 @@
-E-com-Website
+E-Commerce Website
 
 The basic objective of this project is to build and design an e-commerce website for the daily users.
 
